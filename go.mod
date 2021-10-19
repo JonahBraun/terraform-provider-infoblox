@@ -9,3 +9,5 @@ require (
 	golang.org/x/net v0.0.0-20210405180319-a5a99cb37ef4 // indirect
 	golang.org/x/sys v0.0.0-20210510120138-977fb7262007 // indirect
 )
+
+replace github.com/infobloxopen/infoblox-go-client/v2 => github.com/shadtimm/infoblox-go-client/v2 v2.2.0-beta
